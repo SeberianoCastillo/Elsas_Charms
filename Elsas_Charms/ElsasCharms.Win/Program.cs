@@ -16,7 +16,7 @@ namespace ElsasCharms.Win
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new formReporteVentasPorProducto());
+            Application.Run(new MDIPrincipal());
         }
     }
 }
